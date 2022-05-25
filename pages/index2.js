@@ -1,20 +1,20 @@
 
 import Head from 'next/head'
-import Feed from '../components/Feed';
+import Feed2 from '../components/Feed2';
 import Sidebar from "../components/Sidebar";
 import { getProviders, getSession, useSession } from "next-auth/react";
 import Login from '../components/Login';
-import Modal from '../components/Modal';
+import Modal2 from '../components/Modal2';
 import { useRecoilState } from 'recoil';
-import { modalState } from '../atoms/modalAtom';
-import Widgets from '../components/Widgets';
+import { modalState2 } from '../atoms/modalAtom2';
+import Widgets2 from '../components/Widgets2';
 
 import { Menu } from '@headlessui/react'
 
 
-export default function Home({trendingResults, followResults, providers }) {
+export default function index2({trendingResults, followResults, providers }) {
   const { data: session } = useSession(); 
-  const [isOpen, setIsOpen] = useRecoilState(modalState);
+  const [isOpen, setIsOpen] = useRecoilState(modalState2);
 
 if(!session) return <Login providers={providers} />;
   return (
@@ -25,23 +25,25 @@ if(!session) return <Login providers={providers} />;
       </Head>
 
       
-      <main className=" min-h-screen flex max-w-[4000px] mr-auto ml-30">
-        <Sidebar />
+      <main className="bg-white min-h-screen flex max-w-[1500px] mr-auto ml-30">
+      
 
-      <Feed />
+      <Feed2 />
      
-      <Widgets
+      <Widgets2
 
      
           trendingResults={trendingResults}
           followResults={followResults}
-        />
 
+          
+        />
+   
        
         
         
 
-        {isOpen && <Modal />}
+        {isOpen && <Modal2 />}
       </main>
     </div>
   );
