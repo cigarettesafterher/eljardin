@@ -89,7 +89,7 @@ function Login({ providers }) {
                       </a>
                   </div>
                   <Link
-                    href="#"
+                    href=""
                     className="block w-full px-5 py-3 text-center font-medium text-[#e9e9e9] bg-gray-50 hover:bg-[#3EF070]"
                   >
                     Log in
@@ -115,7 +115,7 @@ function Login({ providers }) {
                
         {Object.values(providers).map((provider) => (
           <div key={provider.name}>
-            {/* https://devdojo.com/tailwindcss/buttons#_ */}
+          
 
             <button
               className="relative inline-flex items-center justify-start px-6 py-3 overflow-hidden font-medium transition-all bg-white rounded hover:bg-white group"

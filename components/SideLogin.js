@@ -16,7 +16,7 @@ export default function Example() {
               <nav className="relative flex items-center justify-between sm:h-10 lg:justify-start" aria-label="Global">
                 <div className="flex items-center flex-grow flex-shrink-0 lg:flex-grow-0">
                   <div className="flex items-center justify-between w-full md:w-auto">
-                    <a href="#">
+                    <a href="">
                       <span className="sr-only">Workflow</span>
                       <img
                         alt="Workflow"
@@ -81,7 +81,7 @@ export default function Example() {
                       </a>
                   </div>
                   <a
-                    href="#"
+                    href=""
                     className="block w-full px-5 py-3 text-center font-medium text-indigo-600 bg-gray-50 hover:bg-gray-100"
                   >
                     Log in
@@ -108,7 +108,7 @@ export default function Example() {
                 </div>
                 <div className="mt-3 sm:mt-0 sm:ml-3">
                   <a
-                    href="#"
+                    href=""
                     className="w-full flex items-center justify-center px-8 p-3 border border-transparent text-base font-medium rounded-md text-indigo-700 bg-indigo-100 hover:bg-indigo-200 md:py-4 md:text-lg md:px-10"
                   >
                     Live demo

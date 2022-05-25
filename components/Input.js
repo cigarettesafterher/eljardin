@@ -164,7 +164,7 @@ function Input() {
               disabled={!input && !selectedFile}
               onClick={sendPost}
             >
-              Plant!
+              Plant
             </button>
           </div>
         )}

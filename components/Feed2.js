@@ -49,7 +49,7 @@ function Feed2() {
                 <ArrowLeftIcon className="h-5 text-black" />
               </div>
     <div className="text-[ #363636] flex items-center sm:justify-between py-2 px-3 sticky top-0 z-50 bg-white border-b border-white">
-      <h2 className="text-lg sm:text-xl font-bold">#cigsafterher</h2>
+      <h2 className="text-lg sm:text-xl font-bold">cigsafterher</h2>
       
       <div className="hoverAnimation w-9 h-9 flex items-center justify-center xl:px-0 ml-auto">
 
