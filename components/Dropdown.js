@@ -20,7 +20,7 @@ function MyDropdown() {
               className={'bg-green'}
               href="/index2"
             >
-             <div className=" text-[#baf0a9]  text-sm px-5"> #cigsafterher </div>
+             <div className=" text-[#baf0a9]  text-sm px-5"> cigsafterher </div>
             </Link>
          
         </Menu.Item>

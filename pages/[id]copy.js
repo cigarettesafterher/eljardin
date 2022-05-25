@@ -54,7 +54,7 @@ function PostPage2({ trendingResults, followResults, providers }) {
     <div>
       <Head>
         <title>
-          {post?.username} on ElJardin: "{post?.text}"
+          {post?.username} on ElJardin: {post?.text}
         </title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
