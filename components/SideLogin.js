@@ -10,7 +10,7 @@ export default function Example() {
     <div className="relative bg-white overflow-hidden">
       <div className="max-w-7xl mx-auto">
         <div className="relative z-10 pb-8 bg-white sm:pb-16 md:pb-20 lg:max-w-2xl lg:w-full lg:pb-28 xl:pb-32">
-        
+
           <Popover>
             <div className="relative pt-6 px-4 sm:px-6 lg:px-8">
               <nav className="relative flex items-center justify-between sm:h-10 lg:justify-start" aria-label="Global">
@@ -33,12 +33,12 @@ export default function Example() {
                   </div>
                 </div>
                 <div className="hidden md:block md:ml-10 md:pr-4 md:space-x-8">
-                    <a className="font-medium text-gray-500 hover:text-gray-900">
-                     
-                    </a>
-                  
-                 
-                  
+                  <a className="font-medium text-gray-500 hover:text-gray-900">
+
+                  </a>
+
+
+
                 </div>
               </nav>
             </div>
@@ -73,12 +73,12 @@ export default function Example() {
                     </div>
                   </div>
                   <div className="px-2 pt-2 pb-3 space-y-1">
-   
-                      <a
-                      
-                        className="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50"
-                      >
-                      </a>
+
+                    <a
+
+                      className="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50"
+                    >
+                    </a>
                   </div>
                   <a
                     href=""
@@ -96,16 +96,15 @@ export default function Example() {
               <h1 className="text-4xl tracking-tight font-extrabold text-gray-900 sm:text-5xl md:text-6xl">
                 <span className="block xl:inline"> un vinculo</span>{ }
                 <span>
-                 importante </span>
+                  importante </span>
               </h1>
               <p className="mt-3 text-base text-gray-500 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
-              El Jardin permitira crear una conexion entre todos los artistas y es nuestro trabajo, crear ese vinculo. Esta red social, tiene como idea principal, conseguir conectar a las personas al igual que estamos conectados en el universo. Lo mas importante de la web es exponer. El Jardin es un lugar donde crear tu colectivo y mostrar tus obras. Este proyecto explora una nueva forma de presentar proyectos. Los artistas, necesitan un lugar.
-
+                El Jardin permitira crear una conexion entre todos los artistas y es nuestro trabajo crear ese vinculo. Esta red social, tiene como idea principal, conseguir conectar a las personas al igual que estamos conectados en el universo. Lo mas importante de la web es exponer. El Jardin es un lugar donde crear tu colectivo y mostrar tus obras. Este proyecto explora una nueva forma de presentar proyectos. Los artistas, necesitan un lugar.
               </p>
               <div className="mt-5 sm:mt-8 sm:flex sm:justify-center lg:justify-start">
                 <div className="rounded-md shadow">
-                  
-                   
+
+
                 </div>
                 <div className="mt-3 sm:mt-0 sm:ml-3">
                   <a
@@ -120,8 +119,8 @@ export default function Example() {
           </main>
         </div>
       </div>
-      <div className="pt-20 lg:absolute lg:inset-y-0  mt-20 lg:right-1 lg:w-'1'">     
-      <img className="h-full w-full object-cover sm:h-full md:h-80 lg:w-300 lg:pr-20 lg:h-300" src="/login.jpg/" />
+      <div className="pt-20 lg:absolute lg:inset-y-0  mt-20 lg:right-1 lg:w-'1'">
+        <img className="h-full w-full object-cover sm:h-full md:h-80 lg:w-300 lg:pr-20 lg:h-300" src="/login.jpg/" />
       </div>
     </div>
   )
