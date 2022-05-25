@@ -95,7 +95,9 @@ export default function Example() {
             <div className="sm:text-center lg:text-left">
               <h1 className="text-4xl tracking-tight font-extrabold text-gray-900 sm:text-5xl md:text-6xl">
                 <span className="block xl:inline"> un vinculo</span>{ }
-                <span className="block text-indigo-600 xl:inline">importante </span>
+                <span
+                 className="block text-indigo-600 xl:inline"
+                 />
               </h1>
               <p className="mt-3 text-base text-gray-500 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
               El Jardin permitira crear una conexion entre todos los artistas y es nuestro trabajo, crear ese vinculo. Esta red social, tiene como idea principal, conseguir conectar a las personas al igual que estamos conectados en el universo. Lo mas importante de la web es exponer. El Jardin es un lugar donde crear tu colectivo y mostrar tus obras. Este proyecto explora una nueva forma de presentar proyectos. Los artistas, necesitan un lugar.
