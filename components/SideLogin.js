@@ -94,11 +94,11 @@ export default function Example() {
           <main className="mt-10 mx-auto max-w-7xl px-4 sm:mt-12 sm:px-6 md:mt-16 lg:mt-20 lg:px-8 xl:mt-28">
             <div className="sm:text-center lg:text-left">
               <h1 className="text-4xl tracking-tight font-extrabold text-gray-900 sm:text-5xl md:text-6xl">
-                <span className="block xl:inline">"un vínculo</span>{' '}
+                <span className="block xl:inline">"un vinculo</span>{' '}
                 <span className="block text-indigo-600 xl:inline">importante"</span>
               </h1>
               <p className="mt-3 text-base text-gray-500 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
-              El Jardín permitirá crear una conexión entre todos los artistas y es nuestro trabajo, crear ese vínculo. Esta red social, tiene como idea principal, conseguir conectar a las personas al igual que estamos conectados en el universo. Lo más importante de la web es exponer. El Jardín es un lugar dónde crear tu colectivo y mostrar tus obras. Este proyecto explora una nueva forma de presentar proyectos. Los artistas, necesitan un lugar.
+              El Jardin permitirá crear una conexión entre todos los artistas y es nuestro trabajo, crear ese vinculo. Esta red social, tiene como idea principal, conseguir conectar a las personas al igual que estamos conectados en el universo. Lo más importante de la web es exponer. El Jardin es un lugar dónde crear tu colectivo y mostrar tus obras. Este proyecto explora una nueva forma de presentar proyectos. Los artistas, necesitan un lugar.
 
               </p>
               <div className="mt-5 sm:mt-8 sm:flex sm:justify-center lg:justify-start">

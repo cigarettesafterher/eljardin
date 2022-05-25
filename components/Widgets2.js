@@ -32,15 +32,15 @@ function Widgets2({ trendingResults, followResults }) {
 
       La Luz en un entrelazamiento de almas, un sentimiento incomprensible, destella en una inimaginable intensidad.
 
-A modo de statement y como resumen del párrafo anterior, se puede definir que es la conexión el punto de partida en la investigación que el autor ha utilizado. La fascinante posibilidad de encuentros entre individuos que puedan llegar al éxtasis, y la extensión de esas relaciones entre almas e incluso entre los diferentes universos paralelos que descubre el Aleph, son la inspiración y a la vez el objetivo que se pretende incorporar en futuras creaciones artísticas.
+A modo de statement y como resumen del parrafo anterior, se puede definir que es la conexion el punto de partida en la investigacion que el autor ha utilizado. La fascinante posibilidad de encuentros entre individuos que puedan llegar al extasis, y la extension de esas relaciones entre almas e incluso entre los diferentes universos paralelos que descubre el Aleph, son la inspiración y a la vez el objetivo que se pretende incorporar en futuras creaciones artisticas.
 
-La certeza de que existen puntos de unión entre los diferentes universos y  de que están relacionados con las conexiones entre personas, es la motivación para conseguir un acercamiento  a una representación que haga realidad esos vínculos y esas sensaciones.
+La certeza de que existen puntos de unión entre los diferentes universos y  de que estan relacionados con las conexiones entre personas, es la motivacion para conseguir un acercamiento  a una representacion que haga realidad esos vinculos y esas sensaciones.
 
-Tras el recorrido por las obras de Borges en párrafos anteriores, la aspiración es incorporar a las creaciones artísticas el espíritu que María Kodama transmite sobre su relación con Borges. 
+Tras el recorrido por las obras de Borges en parrafos anteriores, la aspiracion es incorporar a las creaciones artisticas el espiritu que Maria Kodama transmite sobre su relacion con Borges. 
 
-El enfoque multidisciplinar permite expresar cómodamente esta idea en la pintura, fotografía, videocreación,  música etc... (ver anexo número xxx)
+El enfoque multidisciplinar permite expresar comodamente esta idea en la pintura, fotografia, videocreacion,  musica etc... (ver anexo numero xxx)
 
-El grupo artístico, que se llamará cigarettesafterher (como referencia a las propias experiencias personales del autor durante el estudio de la conexión) tendrá como principal objetivo desarrollar proyectos a partir de la conexión entre personas y almas, y entre universos paralelos, centrándose en la idea de compartir obras artísticas de toda índole en una red social tangible (El Jardín).
+El grupo artistico, que se llamara cigarettesafterher (como referencia a las propias experiencias personales del autor durante el estudio de la conexion) tendra como principal objetivo desarrollar proyectos a partir de la conexión entre personas y almas, y entre universos paralelos, centrandose en la idea de compartir obras artisticas de toda indole en una red social tangible (El Jardin).
 </div>
       
       </div>

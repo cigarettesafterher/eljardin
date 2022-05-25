@@ -46,7 +46,7 @@ function MyDropdown() {
               className={'bg-green'}
               href="/index2"
             >
-             <div className=" text-[#838383] text-sm px-5"> #galería2 </div>
+             <div className=" text-[#838383] text-sm px-5"> #galeria2 </div>
             </a>
          
         </Menu.Item>
@@ -66,7 +66,7 @@ function MyDropdown() {
               className={'bg-green'}
               href="/index2"
             >
-             <div className=" text-[#838383] text-sm px-5"> #galería3 </div>
+             <div className=" text-[#838383] text-sm px-5"> #galeria3 </div>
             </a>
          
         </Menu.Item>
