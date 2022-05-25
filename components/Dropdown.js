@@ -1,4 +1,5 @@
 import { Menu, Transition} from '@headlessui/react'
+import Link from 'next/link';
 
 function MyDropdown() {
     return (
@@ -15,12 +16,12 @@ function MyDropdown() {
                 <Menu.Item>
 
           
-            <a
+            <Link
               className={'bg-green'}
               href="/index2"
             >
              <div className=" text-[#baf0a9]  text-sm px-5"> #cigsafterher </div>
-            </a>
+            </Link>
          
         </Menu.Item>
                 </Menu.Items>
@@ -42,12 +43,12 @@ function MyDropdown() {
                 <Menu.Item>
 
           
-            <a
+            <Link
               className={'bg-green'}
               href="/index2"
             >
              <div className=" text-[#838383] text-sm px-5"> #galeria2 </div>
-            </a>
+            </Link>
          
         </Menu.Item>
                 </Menu.Items>
@@ -62,12 +63,12 @@ function MyDropdown() {
                 <Menu.Item>
 
           
-            <a
+            <Link
               className={'bg-green'}
               href="/index2"
             >
              <div className=" text-[#838383] text-sm px-5"> #galeria3 </div>
-            </a>
+            </Link>
          
         </Menu.Item>
                 </Menu.Items>

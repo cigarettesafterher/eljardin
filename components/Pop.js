@@ -1,5 +1,6 @@
 import { Popover } from '@headlessui/react'
 import { CogIcon } from "@heroicons/react/solid";
+import Link from 'next/link';
 
 function MyPopover() {
   return (
@@ -9,7 +10,7 @@ function MyPopover() {
       <Popover.Panel className="text-[#b3b3b3] absolute z-20">
 
         <div className="grid grid-cols-2">
-          <a href="/">Terms and Conditions</a>
+          <Link href="/">Terms and Conditions</Link>
           </div>
           
           

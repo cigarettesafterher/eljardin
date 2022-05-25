@@ -1,4 +1,5 @@
 import { Menu, Transition} from '@headlessui/react'
+import Link from 'next/link';
 function MyDropdown2() {
     return (
       <Menu>
@@ -9,12 +10,12 @@ function MyDropdown2() {
         <Menu.Items>
           <Menu.Item>
              {({ active }) => (
-              <a
+              <Link
                 className={`${active && 'bg-blue-500'}`}
                 href="/index2"
               >
                 Collective1
-              </a>
+              </Link>
             )}
           </Menu.Item>
          
@@ -23,12 +24,12 @@ function MyDropdown2() {
         <Menu.Items>
              <Menu.Item>
             {({ active }) => (
-              <a
+              <Link
                 className={`${active && 'bg-blue-500'}`}
                 href="/index2"
               >
                 Collective2
-              </a>
+              </Link>
             )}
           </Menu.Item> 
           </Menu.Items>
