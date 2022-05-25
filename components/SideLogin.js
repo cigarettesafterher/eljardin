@@ -98,7 +98,7 @@ export default function Example() {
                 <span className="block text-indigo-600 xl:inline">importante"</span>
               </h1>
               <p className="mt-3 text-base text-gray-500 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
-              El Jardin permitirá crear una conexión entre todos los artistas y es nuestro trabajo, crear ese vinculo. Esta red social, tiene como idea principal, conseguir conectar a las personas al igual que estamos conectados en el universo. Lo más importante de la web es exponer. El Jardin es un lugar dónde crear tu colectivo y mostrar tus obras. Este proyecto explora una nueva forma de presentar proyectos. Los artistas, necesitan un lugar.
+              El Jardin permitira crear una conexion entre todos los artistas y es nuestro trabajo, crear ese vinculo. Esta red social, tiene como idea principal, conseguir conectar a las personas al igual que estamos conectados en el universo. Lo mas importante de la web es exponer. El Jardin es un lugar donde crear tu colectivo y mostrar tus obras. Este proyecto explora una nueva forma de presentar proyectos. Los artistas, necesitan un lugar.
 
               </p>
               <div className="mt-5 sm:mt-8 sm:flex sm:justify-center lg:justify-start">
